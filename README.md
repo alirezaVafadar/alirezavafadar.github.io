@@ -6,7 +6,7 @@ Robotics education, program operations, and the systems I build to support them.
 
 ## Run a local copy
 
-[Download the site as a ZIP](https://github.com/alirezaVafadar/alirezavafadar.github.io/archive/refs/heads/main.zip), extract it, and open `index.html` in a browser. The photos, recognition letters, icons, styles, scripts, and font are included. Links to interviews and original sources open their respective websites.
+[Download the site as a ZIP](https://github.com/alirezaVafadar/alirezavafadar.github.io/archive/refs/heads/main.zip), extract it, and open `index.html` in a browser. The photos, recognition letters, icons, styles, scripts, and font are included. Links to original sources open their respective websites.
 
 To preview changes with a local web server, run these commands with Git and Python 3 installed.
 
