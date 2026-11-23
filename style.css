@@ -379,6 +379,9 @@ h2.brand-title>.brand-name{color:inherit}
 .credit-name h3 { font-size:clamp(1.65rem,2.9vw,2.75rem); }
 .credit-name h4 { font-size:clamp(1.25rem,1.9vw,1.65rem); }
 .credit-copy p { margin:0 0 .45rem; color:#d7ddce; max-width:55ch; font-size:1rem; }
+.panel-details .credit-copy { margin-top: .75rem; }
+.panel-photo { display: block; width: min(100%, 20rem); cursor: zoom-in; }
+.panel-photo img { display: block; width: 100%; height: auto; border-radius: .25rem; }
 .event-credit .links { gap:.4rem 1rem; }
 .event-credit .textlink { font-size:.875rem; }
 .society-activities { margin:0 0 .7rem clamp(.25rem,2vw,1.5rem); padding:0 0 0 clamp(.9rem,2vw,2rem); border-left:2px solid #4e5948; list-style:none; }
